@@ -423,6 +423,15 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/222bfb13-3eb7-4f0a-90fb
 
 - Reference audio:
 
+  https://github.com/GalaxyCong/3Settings/assets/109259667/59296f3e-47a6-4732-befe-5aac76d58d8d
+
+
+
+
+
+
+
+
 
 
 
@@ -432,6 +441,9 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/222bfb13-3eb7-4f0a-90fb
 
 - Dubbing_Video_Raw (Providing silence video information)
 
+  https://github.com/GalaxyCong/3Settings/assets/109259667/e8d96841-9261-4d85-a23f-3dcdc4fe8a90
+
+
 
 
 
@@ -442,6 +454,52 @@ Ground Truth:
 ⚠️ There are no ground-truth (GT) result, since this test is zero-shot testing for unseen speakers. 
 
 👇👇 The Generated result:
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/733f310f-2086-4f2b-b628-0374489e8ee7
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/b16415bd-597c-4373-b3eb-b55bd170cf9e
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/dad79f55-c42c-4156-8cd6-160cc3dd3fa5
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/8665e7c4-9831-43f1-9ecc-36a1d7c44b3a
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/c4f7c311-577d-45f2-ba74-633760a596a1
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/e202e032-c942-469a-891f-78d267168df6
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/096359fd-0df3-49f6-a4f4-6b672a8c169f
+
+
+
 
 
 
@@ -451,17 +509,9 @@ Ground Truth:
 
 - Reference audio:
 
+  https://github.com/GalaxyCong/3Settings/assets/109259667/88b39935-9c7c-4a7c-842d-4648c5261435
+
   
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -469,6 +519,12 @@ Ground Truth:
 - Text: “She was my whole world.” 
 
 - Dubbing_Video_Raw (Providing silence video information)
+
+  https://github.com/GalaxyCong/3Settings/assets/109259667/71193ebc-83f4-4a37-b1f4-55fb142ec433
+
+
+
+
 
 
   
@@ -488,6 +544,54 @@ Ground Truth:
 
 
 
+https://github.com/GalaxyCong/3Settings/assets/109259667/9615c3b1-b264-434b-972a-fdd0b29b476d
+
+
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/c9767b9a-f50a-42f6-811a-fef66f592a88
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/2e74277c-49c9-40ab-ad5d-c0713733dbc6
+
+
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/7b7fecf5-2107-463f-8e19-ea2c9cfbd428
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/6e70045f-b7c8-4498-be94-0bd92b640a69
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/3b664f7b-7107-42ca-91e3-4dc0d234ea2b
+
+
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/d9408623-27f7-4b88-bd52-a0e0e3585b94
 
 
 
