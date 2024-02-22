@@ -336,7 +336,11 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/9a6608ca-2715-443d-9ccf
 
 - Dubbing_Video_Raw (Providing silence video information)
 
-  https://github.com/GalaxyCong/3Settings/assets/109259667/56dd7ba7-f0d7-4a38-a99f-f5a2f2412b61
+  https://github.com/GalaxyCong/3Settings/assets/109259667/64fa3d16-a311-4970-864b-4938260eb370
+
+
+
+
 
 
 
@@ -366,17 +370,6 @@ Ground Truth:
 
 
 
-
-
-
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/3Settings/assets/109259667/08cadb67-53d9-4c3a-9a61-c762114c0cb0
 
 
 
@@ -412,54 +405,11 @@ Ground Truth:
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/a63e1787-e42e-4583-84b2-c7c7cbb087f0
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/e71f0709-7d35-436b-9e94-f3a13d00aa6a
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/ee9759e8-a24b-4a32-ba96-9d3520e42c9e
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/8e1530be-a32a-41a7-b7be-fefae4df23d4
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/2f3bbe1c-c482-421f-94d5-18003edb3877
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/dff1f5f3-1012-4ab5-b883-755a67838758
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/28be93b3-5457-4d6f-9710-cf81b449a095
-
-
 
 
 ### 3.4 Male voice actors dubbing female characters
 
 - Reference audio:
-
-  https://github.com/GalaxyCong/StyleDubber/assets/109259667/c441d795-215d-44c7-8bfb-ac916d636c99
-
-
 
   
 
@@ -480,8 +430,6 @@ https://github.com/GalaxyCong/StyleDubber/assets/109259667/28be93b3-5457-4d6f-97
 
 - Dubbing_Video_Raw (Providing silence video information)
 
-  https://github.com/GalaxyCong/StyleDubber/assets/109259667/1adf1052-df64-4b7a-b8b0-0949a02ccdae
-
 
   
 
@@ -497,68 +445,6 @@ Ground Truth:
 
 
 
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/13bdac6a-209c-49fb-833d-fa6d241ec261
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/c9ff3e79-1fad-46f9-8747-0209ca4950d9
-
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/22252852-4774-4b3b-bacb-43ebec227e25
-
-
-
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/bcc86599-7e55-407e-ae20-fc0e4d0a8b04
-
-
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/14b4900c-8cdf-4d0a-99e0-be1986646a47
-
-
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/6373fc54-3066-40e4-84f4-6ef766f9d505
-
-
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/25e072b8-f3c9-4389-b20f-2e63ec145d4b
 
 
 
