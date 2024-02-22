@@ -16,9 +16,6 @@ We will release the detailed configuration for all experiment settings for the G
     + [3.4 Male voice actors dubbing female characters](#34-male-voice-actors-dubbing-female-characters)
 
 
-![into3](https://github.com/GalaxyCong/StyleDubber/assets/109259667/da8d7471-4989-4966-a45d-37089c2ccaaf)
-
-
 
 ## 1. Result of Dubbing Setting1 
 
@@ -31,7 +28,10 @@ We will release the detailed configuration for all experiment settings for the G
 Ground Truth: 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/59ee5d79-636d-4786-8dba-c0636aa826e6
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/1b44f0c9-5339-4903-b968-952959beb312
+
 
 
 
@@ -39,37 +39,44 @@ https://github.com/GalaxyCong/StyleDubber/assets/109259667/59ee5d79-636d-4786-8d
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/01465d94-56f4-4682-96ca-61ea530c4324
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/a3c041dd-207e-4bce-867b-9ec6f538469b
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/1ba2214c-5962-42bf-9770-bf62d2698a5b
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/ce831d12-1f8c-4e63-8ba5-c8d8f585ec1e
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/8cb04e97-39b4-4e98-aff4-7867cfda47fc
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/5234c6c2-dad5-4b8f-8975-063dd4cf9662
+https://github.com/GalaxyCong/3Settings/assets/109259667/1779c6c4-d37a-474a-94bb-f87a992b09bc
 
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/92b496d1-d5d2-4934-869f-f1df63f2c280
+https://github.com/GalaxyCong/3Settings/assets/109259667/38ad0207-8115-4b37-8502-1cfb70c0a5da
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/8b13d5b5-fbde-4dc8-9696-b3711f2f460e
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/e7c800af-685b-4b0c-a9d6-f705bf5db912
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/83e78d50-599b-4f46-a428-e53c74c8991a
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/6714b1c1-c7f8-428a-9168-14c59b863988
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/7b2d8be5-2c1d-4b03-9d94-ccdb7b8c9ed3
+
 
 
 
