@@ -341,14 +341,6 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/9a6608ca-2715-443d-9ccf
 
 
 
-
-
-
-
-
-
-
-
 --------------------------------------
 Ground Truth: 
 
@@ -356,6 +348,54 @@ Ground Truth:
 ⚠️ There are no ground-truth (GT) result, since this test is zero-shot testing for unseen speakers. 
 
 👇👇 The Generated result:
+
+
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/d02848e3-72ae-4201-996b-6bc007a78296
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/124882c1-e437-4f73-a468-39fe07df602b
+
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/acde3161-abe3-4816-aa1f-2038d96e5f4b
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/c0c9bc5a-b3b7-4c75-9c16-7ba448591373
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/85290b33-4864-44d1-844b-1b9261cb14f7
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/92d7e37e-fd64-4947-bac9-ec6c2553f802
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/222bfb13-3eb7-4f0a-90fb-d5d6f4854e9e
 
 
 
