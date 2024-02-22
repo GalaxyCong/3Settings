@@ -247,7 +247,12 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/a0300cf1-5e70-4bcf-9f6a
 
 - Reference audio:
 
-  https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/a91caecd-2674-49c7-99af-0ee01528e08b
+  https://github.com/GalaxyCong/3Settings/assets/109259667/f440c281-405b-4843-ba30-07086931cdbe
+
+
+  
+
+
 
 
 
@@ -255,7 +260,12 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/a0300cf1-5e70-4bcf-9f6a
 
 - Dubbing_Video_Raw (Providing silence video information)
 
-  https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/c2405f17-8738-4b94-bc58-5a8707495e38
+  https://github.com/GalaxyCong/3Settings/assets/109259667/8369d53c-762e-4aa7-96b9-d34ef1d26523
+
+
+
+
+
 
 
 
@@ -269,38 +279,39 @@ Ground Truth:
 
 👇👇 The Generated result:
 
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/87e916cc-30bd-43e4-b495-84b71b3b548f
 
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/5c7ca231-def8-4716-8f13-669eb0d8d552
 
 
-
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/69de94a1-798d-4b8e-8969-9da4eb4677fe
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/3248452b-1838-4bba-8abd-98e3ef4be012
+https://github.com/GalaxyCong/3Settings/assets/109259667/61e0c822-7771-4f3d-80ab-cf1bd7d52609
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/b5017bbb-d75e-48af-b75f-f67783de3737
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/2af64005-c590-4683-a9d2-75609e9ab2c5
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/31fae7b2-3661-480d-b2f8-3aad41f07619
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/b16decf3-6994-4de1-92a8-2a48de6e3266
 
 
 
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/ebdd48c4-5054-4d3d-ab02-99a3c38585e5
 
 
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/ad1aa933-dd3f-498f-8d86-490c2d1d95ed
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/9a6608ca-2715-443d-9ccf-d0904c91f319
 
 
 
@@ -311,7 +322,11 @@ https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/ebdd48c4-5054-4
 
 - Reference audio:
 
-  https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/c9ddaa77-e7fd-4b52-946b-5322c28d5b9f
+  https://github.com/GalaxyCong/3Settings/assets/109259667/e69a5dc7-a597-4e9b-af71-5b35d3b0f9a7
+
+
+  
+
 
 
 
@@ -321,9 +336,13 @@ https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/ebdd48c4-5054-4
 
 - Dubbing_Video_Raw (Providing silence video information)
 
-  https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/39f6c54e-b691-4991-aa2d-d7f03ff76301
+  https://github.com/GalaxyCong/3Settings/assets/109259667/56dd7ba7-f0d7-4a38-a99f-f5a2f2412b61
 
-  
+
+
+
+
+
 
 
 --------------------------------------
@@ -335,21 +354,6 @@ Ground Truth:
 👇👇 The Generated result:
 
 
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/6530ccaf-8dd2-4529-bd40-002061c074e0
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/42bdab7a-63a2-4d82-9422-81800aaec283
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/f87635e6-80db-4752-a95d-0a44105eff85
 
 
 
@@ -358,7 +362,6 @@ https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/f87635e6-80db-4
 
 
 
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/e1257324-7fbc-4207-8aa0-730c19df0ada
 
 
 
@@ -367,24 +370,13 @@ https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/e1257324-7fbc-4
 
 
 
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/a023926b-6c1c-4765-b934-772d6ade4363
 
 
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/5fa02b4f-03d5-46da-9c39-2724f4e37f78
-
-
-
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/739d0c18-8269-4af5-8394-841273f1af73
-
-
+https://github.com/GalaxyCong/3Settings/assets/109259667/08cadb67-53d9-4c3a-9a61-c762114c0cb0
 
 
 
@@ -398,10 +390,6 @@ https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/739d0c18-8269-4
 
 - Reference audio:
 
-  https://github.com/GalaxyCong/StyleDubber/assets/109259667/f6265782-db30-4572-939a-06133b83a55e
-
-
-  
 
 
 
@@ -411,9 +399,7 @@ https://github.com/GalaxyCong/StyleDubber_Codes/assets/109259667/739d0c18-8269-4
 
 - Dubbing_Video_Raw (Providing silence video information)
 
-  https://github.com/GalaxyCong/StyleDubber/assets/109259667/9000cf2d-015f-4b28-ba6a-5c16d26fa183
 
-  
 
 
 --------------------------------------
