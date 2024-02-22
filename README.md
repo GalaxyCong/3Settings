@@ -88,7 +88,8 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/7b2d8be5-2c1d-4b03-9d94
 
 - Reference audio:
 
-  https://github.com/GalaxyCong/StyleDubber/assets/109259667/0fe90bd0-2a53-4300-a724-cb412351e4b6
+  https://github.com/GalaxyCong/3Settings/assets/109259667/ac50db81-ea8f-4e15-9ece-9c8f6e761bc1
+
 
 
 - Text: “place red with m eight now” 
@@ -100,41 +101,63 @@ Ground Truth:
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/02155867-f678-414e-b935-28e5ab4e2afb
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/5d7413e4-b922-4221-a364-217582994b3c
+
 
 
 
 👇👇 The Generated result:
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/6f277865-ddd4-4f24-90a2-7b1dad6fb016
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/5509d838-0081-4732-8ef9-beb5fa5e5db8
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/28343bc1-c90c-4a44-8f0f-71a5533022f3
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/0820ff70-65c4-46a1-94ec-4d43f12a8992
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/b024d9ac-1ec5-4c65-891e-71f161797c8b
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/3f0c5186-cef9-45b4-9516-cc1fb85d4cb5
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/4f48bbb6-6807-450e-a533-cb9ed0fab9ea
+https://github.com/GalaxyCong/3Settings/assets/109259667/5c1f3c89-706f-401e-b2aa-4b53016824dc
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/095cc095-1beb-4a4f-9082-745f4904eb54
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/74b1ab16-8832-4a15-81db-2624a9edd9ed
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/f93d2381-6305-4ae9-a6cb-13ee0fd5dad2
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/c35cbb69-77b8-4c91-baef-0f42ff6fb5cb
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/22529d4e-6153-4fa7-8e7d-f230abd8318a
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/c2d2dc3d-380b-4d39-9493-5b080735cc28
+
+
 
 
 --------------
@@ -149,7 +172,8 @@ https://github.com/GalaxyCong/StyleDubber/assets/109259667/095cc095-1beb-4a4f-90
 
 - Reference audio:
 
-  https://github.com/GalaxyCong/StyleDubber/assets/109259667/5bfb71ed-9cbb-493f-a7fc-48057b342df1
+  https://github.com/GalaxyCong/3Settings/assets/109259667/0c323294-21bc-4653-b986-cffd8e9549a8
+
 
 
 
@@ -163,44 +187,53 @@ https://github.com/GalaxyCong/StyleDubber/assets/109259667/095cc095-1beb-4a4f-90
 
 Ground Truth: 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/14f9cd06-33ae-4d3f-8808-1f3106aeb8c9
 
 
 👇👇 The Generated result:
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/8a853533-2b3b-482d-8bfa-cec687023700
 
 
 
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/92dc30dc-0db0-4dcb-93c5-48a9a45f7b43
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/bd9d4b20-aadd-48a4-803c-ed14d228f80e
-
-
-
-
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/d7f00c42-6b56-4040-b79e-cc7478dc63fb
+https://github.com/GalaxyCong/3Settings/assets/109259667/095904c7-0208-4a96-b21b-94b0fdbf963b
 
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/b72701fa-c9d0-4f3f-a5a6-402a188bf2d0
+https://github.com/GalaxyCong/3Settings/assets/109259667/5cb1e7f7-0731-4d44-becd-24bb5f65bb7a
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/c59277bc-f6c7-4c73-9160-4e30d2ad0514
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/291ebd35-992b-4c84-8a83-e6127fc84eee
 
 
 
 
-https://github.com/GalaxyCong/StyleDubber/assets/109259667/a587718f-7a8e-4958-88dd-6752dda09cac
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/39572f32-325f-406d-a282-debfa964543d
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/35a810bf-901d-4df7-a21b-2978930a4427
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/6d68cd1f-968d-4239-a58b-f146f6ed0e3e
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/a0300cf1-5e70-4bcf-9f6a-28e3dd9b7a80
 
 
 
