@@ -9,7 +9,7 @@ We will release the detailed configuration for all experiment settings for the G
   * [2. Result of Dubbing Setting2](#2-result-of-dubbing-setting2)  🔥
     + [2.1  The GRID Setting2 Results](#21--the-grid-setting2-results)
     + [2.2 The V2C Animation Setting2 Results](#22-the-v2c-animation-setting2-results)
-  * [3. Result of Dubbing Setting3](#3-result-of-dubbing-setting3)  🔥🔥
+  * [3. Result of Dubbing Setting3](#3-result-of-dubbing-setting3)  (Zero-Shot Dubbing) 🔥🔥
     + [3.1 Female voice actors dubbing male characters](#31-female-voice-actors-dubbing-male-characters)
     + [3.2 Male voice actors dubbing male characters](#32-male-voice-actors-dubbing-male-characters)
     + [3.3 Female voice actors dubbing female characters](#33-female-voice-actors-dubbing-female-characters)
