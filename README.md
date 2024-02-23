@@ -4,6 +4,11 @@
 
 We will release the detailed configuration for all experiment settings for the GRID and V2C Animation dataset, like the ".txt" files of reference audio. 
 
+
+![into3](https://github.com/GalaxyCong/3Settings/assets/109259667/6e30dbd9-420a-4ba3-a0e2-ab364c0bff3a)
+
+
+
 - ## 3Settings ##
   * [1. Result of Dubbing Setting1](#1-result-of-dubbing-setting1)
   * [2. Result of Dubbing Setting2](#2-result-of-dubbing-setting2)  🔥
@@ -18,7 +23,6 @@ We will release the detailed configuration for all experiment settings for the G
 
 
 
-![into3](https://github.com/GalaxyCong/3Settings/assets/109259667/6e30dbd9-420a-4ba3-a0e2-ab364c0bff3a)
 
 
 
