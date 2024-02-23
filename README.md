@@ -10,16 +10,16 @@ We will release the detailed configuration for all experiment settings for the G
 
 
 - ## 3Settings ##
+  * [3Settings](#3settings-1)
   * [1. Result of Dubbing Setting1](#1-result-of-dubbing-setting1)
-  * [2. Result of Dubbing Setting2](#2-result-of-dubbing-setting2)  🔥
+  * [2. Result of Dubbing Setting2](#2-result-of-dubbing-setting2)  🔥  
     + [2.1  The GRID Setting2 Results](#21--the-grid-setting2-results)
-    + [2.2 The V2C Animation Setting2 Results](#22-the-v2c-animation-setting2-results)
-  * [3. Result of Dubbing Setting3](#3-result-of-dubbing-setting3)  (Zero-Shot Dubbing) 🔥🔥
-    + [3.1 Female voice actors dubbing male characters](#31-female-voice-actors-dubbing-male-characters)
-    + [3.2 Male voice actors dubbing male characters](#32-male-voice-actors-dubbing-male-characters)
-    + [3.3 Female voice actors dubbing female characters](#33-female-voice-actors-dubbing-female-characters)
+    + [2.2 The V2C Animation Setting2 Results](#22-the-v2c-animation-setting2-results)   
+  * [3. Result of Dubbing Setting3](#3-result-of-dubbing-setting3) (Zero-Shot Dubbing) 🔥🔥
+    + [3.1 Female voice actors dubbing female characters](#31-female-voice-actors-dubbing-female-characters)
+    + [3.2 Female voice actors dubbing male characters](#32-female-voice-actors-dubbing-male-characters)
+    + [3.3 Male voice actors dubbing male characters](#33-male-voice-actors-dubbing-male-characters)
     + [3.4 Male voice actors dubbing female characters](#34-male-voice-actors-dubbing-female-characters)
-
 
 
 
@@ -254,7 +254,96 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/a0300cf1-5e70-4bcf-9f6a
 (Zero-shot Test)
 
 
-### 3.1 Female voice actors dubbing male characters
+
+
+
+### 3.1 Female voice actors dubbing female characters
+
+
+- Reference audio:
+
+  https://github.com/GalaxyCong/3Settings/assets/109259667/59296f3e-47a6-4732-befe-5aac76d58d8d
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Text: “Why did you bring me here?” 
+
+- Dubbing_Video_Raw (Providing silence video information)
+
+  https://github.com/GalaxyCong/3Settings/assets/109259667/e8d96841-9261-4d85-a23f-3dcdc4fe8a90
+
+
+
+
+
+--------------------------------------
+Ground Truth: 
+
+
+⚠️ There are no ground-truth (GT) result, since this test is zero-shot testing for unseen speakers. 
+
+👇👇 The Generated result:
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/733f310f-2086-4f2b-b628-0374489e8ee7
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/b16415bd-597c-4373-b3eb-b55bd170cf9e
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/dad79f55-c42c-4156-8cd6-160cc3dd3fa5
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/8665e7c4-9831-43f1-9ecc-36a1d7c44b3a
+
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/c4f7c311-577d-45f2-ba74-633760a596a1
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/e202e032-c942-469a-891f-78d267168df6
+
+
+
+
+
+https://github.com/GalaxyCong/3Settings/assets/109259667/096359fd-0df3-49f6-a4f4-6b672a8c169f
+
+
+
+
+
+
+
+### 3.2 Female voice actors dubbing male characters
 
 - Reference audio:
 
@@ -347,7 +436,7 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/188ca936-085c-48dd-a32a
 
 
 
-### 3.2 Male voice actors dubbing male characters
+### 3.3 Male voice actors dubbing male characters
 
 - Reference audio:
 
@@ -428,104 +517,6 @@ https://github.com/GalaxyCong/3Settings/assets/109259667/222bfb13-3eb7-4f0a-90fb
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 3.3 Female voice actors dubbing female characters
-
-
-- Reference audio:
-
-  https://github.com/GalaxyCong/3Settings/assets/109259667/59296f3e-47a6-4732-befe-5aac76d58d8d
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Text: “Why did you bring me here?” 
-
-- Dubbing_Video_Raw (Providing silence video information)
-
-  https://github.com/GalaxyCong/3Settings/assets/109259667/e8d96841-9261-4d85-a23f-3dcdc4fe8a90
-
-
-
-
-
---------------------------------------
-Ground Truth: 
-
-
-⚠️ There are no ground-truth (GT) result, since this test is zero-shot testing for unseen speakers. 
-
-👇👇 The Generated result:
-
-
-
-
-
-
-https://github.com/GalaxyCong/3Settings/assets/109259667/733f310f-2086-4f2b-b628-0374489e8ee7
-
-
-
-
-
-
-https://github.com/GalaxyCong/3Settings/assets/109259667/b16415bd-597c-4373-b3eb-b55bd170cf9e
-
-
-
-
-
-https://github.com/GalaxyCong/3Settings/assets/109259667/dad79f55-c42c-4156-8cd6-160cc3dd3fa5
-
-
-
-
-
-https://github.com/GalaxyCong/3Settings/assets/109259667/8665e7c4-9831-43f1-9ecc-36a1d7c44b3a
-
-
-
-
-
-
-https://github.com/GalaxyCong/3Settings/assets/109259667/c4f7c311-577d-45f2-ba74-633760a596a1
-
-
-
-https://github.com/GalaxyCong/3Settings/assets/109259667/e202e032-c942-469a-891f-78d267168df6
-
-
-
-
-
-https://github.com/GalaxyCong/3Settings/assets/109259667/096359fd-0df3-49f6-a4f4-6b672a8c169f
 
 
 
