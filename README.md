@@ -17,6 +17,13 @@ We will release the detailed configuration for all experiment settings for the G
 
 
 
+
+![into3](https://github.com/GalaxyCong/3Settings/assets/109259667/6e30dbd9-420a-4ba3-a0e2-ab364c0bff3a)
+
+
+
+
+
 ## 1. Result of Dubbing Setting1 
 
 
