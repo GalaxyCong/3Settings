@@ -10,7 +10,6 @@ We will release the detailed configuration for all experiment settings for the G
 
 
 - ## 3Settings ##
-  * [3Settings](#3settings-1)
   * [1. Result of Dubbing Setting1](#1-result-of-dubbing-setting1)
   * [2. Result of Dubbing Setting2](#2-result-of-dubbing-setting2)  🔥  
     + [2.1  The GRID Setting2 Results](#21--the-grid-setting2-results)
